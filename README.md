@@ -2,5 +2,5 @@
 
 A new Flutter project for Beauty Shack Perfume Store.
 
-<center><img src="assets/screenshots/Home1.PNG" width=400 ><center>
-<center><img src="assets/screenshots/Home2.PNG" width=400 ><center>
+<center><img src="https://github.com/PrinceMag/beauty_shack/blob/main/assets/screenshots/home1.PNG" width=400 ><center>
+<center><img src="https://github.com/PrinceMag/beauty_shack/blob/main/assets/screenshots/home2.PNG" width=400 ><center>
