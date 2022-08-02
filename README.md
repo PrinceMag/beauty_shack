@@ -2,6 +2,5 @@
 
 A new Flutter project for Beauty Shack Perfume Store.
 
-
-![App UI](beauty_shack/assets/screenshots/Home1.png)
-![App UI](beauty_shack/assets/screenshots/Home2.png)
+<center><img src="beauty_shack/assets/screenshots/Home1.PNG" width=400 ><center>
+<center><img src="beauty_shack/assets/screenshots/Home2.PNG" width=400 ><center>
